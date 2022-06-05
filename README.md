@@ -1,2 +1,2 @@
-# terraform-aws-dynamodb-global-table-v1
-Deploying Amazon DynamoDB Global Tables V1 in AWS using Terraform
+# Terraform Amazon DynamoDB Table with Terraform
+Deploying Amazon DynamoDB Tables in AWS using Terraform
