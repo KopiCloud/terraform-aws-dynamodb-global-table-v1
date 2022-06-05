@@ -1,0 +1,22 @@
+{
+    "BookCatalog": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "BookName": {"S": "Macarons"},
+                    "Author": {"S": "Pierre Hermes"},
+                    "Genre": {"S": "Cooking"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "BookName": {"S": "A Geek In Japan"},
+                    "Author": {"S": "Hector Garcia"},
+                    "Genre": {"S": "Travel"}
+                }
+            }
+        }
+    ]
+}
